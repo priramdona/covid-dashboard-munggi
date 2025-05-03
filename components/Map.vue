@@ -1,5 +1,9 @@
 <template>
+  <ClientOnly>
     <div ref="mapElement" class="h-[400px] w-full" />
+
+    </ClientOnly>
+    
   </template>
   <script setup>
   import { onMounted, ref } from 'vue'

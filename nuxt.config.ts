@@ -16,6 +16,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
 
   modules: [
+        // '@nuxt/vite'
     // '@nuxt/eslint',
     // '@nuxt/content',
     // '@nuxt/fonts',

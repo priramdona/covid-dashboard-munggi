@@ -2,6 +2,7 @@
     <ClientOnly>
       <div ref="chartContainer" class="w-full h-[400px]" />
     </ClientOnly>
+    
   </template>
   
   <script setup>
